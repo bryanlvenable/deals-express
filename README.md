@@ -1,2 +1,2 @@
 # Deals Express
-Revealing Amazon's best deals!
+Search for what you want. We'll take you to the best deal.

@@ -2,7 +2,7 @@
     "manifest_version": 2,
 
     "name": "Deals Express",
-    "description": "Reveals Amazon's best deals!",
+    "description": "Search for what you want. We'll take you to the best deal.",
     "version": "0.0.1",
 
     "permissions": [
